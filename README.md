@@ -1,6 +1,6 @@
 # Qwant ↔️ Openstreetmap POI's switch bookmarklet
 
-###Switch beetween a node/way/relation from Qwant Maps to Openstreetmap and reverse.
+### Switch beetween a node/way/relation from Qwant Maps to Openstreetmap and reverse.
 
 https://www.qwant.com/maps/place/osm:node:5707551335@Nobuki
 ↔️
