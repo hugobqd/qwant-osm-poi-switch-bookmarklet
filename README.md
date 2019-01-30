@@ -1,4 +1,4 @@
-# Qwant ↔️ Openstreetmap POI's switch bookmarklet
+# Qwant ↔️ Openstreetmap POI's switcher
 
 ### Switch beetween a node/way/relation from Qwant Maps to Openstreetmap and reverse.
 
