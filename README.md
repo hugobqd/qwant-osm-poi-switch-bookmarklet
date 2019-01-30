@@ -19,4 +19,4 @@ https://www.qwant.com/maps/place/osm:relation:3891349
 
 ---
 
-🛑 Doesn't work on **Firefox form OSM to Qwant** due to ~~Content Security Policy~~ a [bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1478037).
+🛑 Doesn't work on **Firefox (form OSM to Qwant)** due to ~~Content Security Policy~~ a [bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1478037).
