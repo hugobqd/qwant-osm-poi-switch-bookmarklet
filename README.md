@@ -19,5 +19,5 @@ https://www.qwant.com/maps/place/osm:relation:3891349
 
 ---
 
-Doesn't work on Firefox Mac form OSM to Qwant due to "Content Security Policy (« script-src »)".
+🛑 Doesn't work on Firefox Mac form OSM to Qwant due to "Content Security Policy (« script-src »)".
 Not tested yet on other OS.
