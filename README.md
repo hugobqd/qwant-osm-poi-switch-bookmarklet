@@ -16,3 +16,8 @@ https://www.qwant.com/maps/place/osm:relation:3891349
 - Create a new bookmark and copy the javascript in the adress field.
 - Give it the name you want
 
+
+---
+
+Doesn't work on Firefox Mac form OSM to Qwant due to "Content Security Policy (« script-src »)".
+Not tested yet on other OS.
